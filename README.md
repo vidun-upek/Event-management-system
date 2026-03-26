@@ -157,14 +157,7 @@ mvn spring-boot:run
 
 ## 💡 Motivation
 
-This project was built to simulate a real-world scalable event management system with secure ticketing and analytics, demonstrating backend engineering, system design, and problem-solving skills.
+This project was built to simulate a real world scalable event management system with secure ticketing and analytics, demonstrating backend engineering, system design, and problem solving skills.
 
 ---
 
-## 📌 Author
-
-* Your Name
-
----
-
-## ⭐ If you like this project, give it a star!
